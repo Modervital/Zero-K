@@ -2,10 +2,10 @@ return {
   name='Zero-K',
   description='Zero-K',
   shortname='ZK',
-  version='2.2.2.2.2',
+  version='Testbranchu',
   mutator='1',
-  game='Zero-KQ',
-  shortGame='ZKq',
+  game='Zero-K',
+  shortGame='ZK',
   modtype=1,
   depend = {
     'Spring content v1',
