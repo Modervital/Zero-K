@@ -5,7 +5,7 @@ return {
   version='$VERSION',
   mutator='1',
   game='Zero-K',
-  shortGame='ZK',
+  shortGame='ZK',ddd
   modtype=1,
   depend = {
     'Spring content v1',
